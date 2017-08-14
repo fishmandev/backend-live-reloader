@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/fishmandev/backend-live-reloader/issues"
   },
-  "homepage": "https://github.com/fishmandev/backend-live-reloader#readme"
+  "homepage": "https://github.com/fishmandev/backend-live-reloader#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
 }
