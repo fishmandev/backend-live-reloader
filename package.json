@@ -1,0 +1,19 @@
+{
+  "name": "live-reloader",
+  "version": "1.0.0",
+  "description": "Live reloader backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fishmandev/backend-live-reloader.git"
+  },
+  "author": "דמיטרי פישמן",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fishmandev/backend-live-reloader/issues"
+  },
+  "homepage": "https://github.com/fishmandev/backend-live-reloader#readme"
+}
