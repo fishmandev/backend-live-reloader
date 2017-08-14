@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/fishmandev/backend-live-reloader#readme",
   "dependencies": {
-    "express": "^4.15.4"
+    "express": "^4.15.4",
+    "websocket": "^1.0.24"
   }
 }
